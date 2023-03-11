@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hungry-buddy/static/css/main.73a5575e.css",
+    "main.js": "/hungry-buddy/static/js/main.666733fb.js",
+    "static/js/787.23a6ac4f.chunk.js": "/hungry-buddy/static/js/787.23a6ac4f.chunk.js",
+    "index.html": "/hungry-buddy/index.html",
+    "main.73a5575e.css.map": "/hungry-buddy/static/css/main.73a5575e.css.map",
+    "main.666733fb.js.map": "/hungry-buddy/static/js/main.666733fb.js.map",
+    "787.23a6ac4f.chunk.js.map": "/hungry-buddy/static/js/787.23a6ac4f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73a5575e.css",
+    "static/js/main.666733fb.js"
+  ]
+}
